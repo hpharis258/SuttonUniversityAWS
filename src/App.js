@@ -5,7 +5,6 @@ import React from 'react';
 function App() {
   return (
     <><Login />
-    <h1>HEADING CHANGE</h1>
     </>
   );
 }
